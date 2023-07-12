@@ -14,6 +14,11 @@ Using the Logistic Regression Models, two sepearte confusion matrixes were creat
 
 Logistic Regression Model 1:
 
+
+![image](https://github.com/carchu9/Credit_Risk_Classification/assets/122560104/c198bcba-558e-4002-9c21-26eb613a8a2e)
+
+* Balanced  Score: ![image](https://github.com/carchu9/Credit_Risk_Classification/assets/122560104/48f43e47-e610-4dea-8436-e41217519736)
+
 * Balanced Accuracy: 99%
 * Precision for Healthy Loans: 100%
 * Precision for High Risk Loans: 87%
@@ -21,6 +26,11 @@ Logistic Regression Model 1:
 * Recall for High Risk Loans: 89%
 
 Logistic Regression Model 2:
+
+
+![image](https://github.com/carchu9/Credit_Risk_Classification/assets/122560104/aedb8481-451a-4691-8aab-cf9312f3d56f)
+
+* Balanced Score: ![image](https://github.com/carchu9/Credit_Risk_Classification/assets/122560104/ffceb192-a52d-43cc-a30d-93cdaa36c637)
 
 * Balanced Accuracy: 100%
 * Precision for Healthy Loans: 100%
